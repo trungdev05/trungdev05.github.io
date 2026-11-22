@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://trungdev05.github.io/sitemap-index.xml
